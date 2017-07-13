@@ -16,7 +16,3 @@
 * Python3
 
 * PDFMiner3: pip install PDFMiner3k.
-
-# Authors
-
-* Rodrigo e Tomaz.
